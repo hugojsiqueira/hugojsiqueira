@@ -6,7 +6,7 @@
 My name is Hugo Siqueira, I am 25 years old and I am from Belém, Pará, Brazil. I hold a degree in Computer Engineering from Centro Universitário do Estado do Pará (CESUPA).<br><br>I currently work at Zexter Limited as a Mid-level Frontend Software Engineer, where I develop and maintain web applications and SPAs. My responsibilities include building user interfaces, implementing layouts and design systems, integrating frontend with backend APIs, optimizing performance and accessibility, fixing bugs, improving UI/UX, and collaborating closely with backend, product, and design teams.<br><br>My current core stack includes Next.js, React, Bun, and HeroUI, focusing on building modern, scalable, and high-performance frontend applications.
 
 
-## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hugojrodrigues) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Mittzera) 
+## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hugojsiqueira) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sikkeira) 
 
 
 # 💻 Tech Stack:
