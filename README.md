@@ -5,7 +5,7 @@
 # 💫 About Me:
 My name is Hugo Siqueira, I am 25 years old and I am from Belém, Pará, Brazil. I hold a degree in Computer Engineering from Centro Universitário do Estado do Pará (CESUPA).
 
-I currently work at Zexter Limited as a Mid-level Frontend Software Engineer, where I develop and maintain web applications and SPAs. My responsibilities include building user interfaces, implementing layouts and design systems, integrating frontend with backend APIs, optimizing performance and accessibility, fixing bugs, improving UI/UX, and collaborating closely with backend, product, and design teams.
+I currently work at @ as a Mid-level Frontend Software Engineer, where I develop and maintain web applications and SPAs. My responsibilities include building user interfaces, implementing layouts and design systems, integrating frontend with backend APIs, optimizing performance and accessibility, fixing bugs, improving UI/UX, and collaborating closely with backend, product, and design teams.
 
 My current core stack includes Next.js, React, Bun, and HeroUI, with a strong focus on building modern, scalable, and high-performance frontend applications.
 
