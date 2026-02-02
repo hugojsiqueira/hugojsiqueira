@@ -1,9 +1,13 @@
-# Hugo Rodrigues
+# Hugo Siqueira
 
 **`FrontEnd Developer `**
 
 # 💫 About Me:
-My name is Hugo Rodrigues, I am 24 years old, and I am from Belém-PA. I study Computer Engineering at the Centro Universitário do Estado do Pará (CESUPA) and I am currently in my eighth semester. I work at Bredi Tecnologia Digital, where I develop and implement WebApps and SPAs using technologies such as Next.js, TypeScript, TailwindCSS, PrismicCMS, Laravel, and Git.
+My name is Hugo Rodrigues, I am 25 years old and I am from Belém, Pará, Brazil. I hold a degree in Computer Engineering from Centro Universitário do Estado do Pará (CESUPA).
+
+I currently work at Zexter as a Mid-level Frontend Software Engineer, where I develop and maintain web applications and SPAs. My responsibilities include building user interfaces, implementing layouts and design systems, integrating frontend with backend APIs, optimizing performance and accessibility, fixing bugs, improving UI/UX, and collaborating closely with backend, product, and design teams.
+
+My current core stack includes Next.js, React, Bun, and HeroUI, focusing on building modern, scalable, and high-performance frontend applications.
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hugojrodrigues) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Mittzera) 
 
